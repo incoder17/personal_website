@@ -1,0 +1,13 @@
+.background{
+    background-color: #3318ff;
+    width: 157px ;
+height: 157px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.background > img {
+    width: 80%;
+}
